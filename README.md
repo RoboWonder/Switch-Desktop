@@ -1,5 +1,8 @@
 Switch Virtual Desktop with mouse wheel for Windows 10
 
+
+This file build with AutoHotkey, so maybe locked by antivirus
+
 # Installation
 Download .exe file in this page: https://github.com/RoboWonder/Switch-Desktop/releases
 
