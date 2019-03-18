@@ -1,4 +1,4 @@
-Switch Desktop with mouse wheel for Windows 10
+Switch Virtual Desktop with mouse wheel for Windows 10
 
 # Installation
 Download .exe file in this page: https://github.com/RoboWonder/Switch-Desktop/releases
